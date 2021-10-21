@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rvitians_groups/static/css/main.4321f32b.chunk.css",
+    "main.js": "/rvitians_groups/static/js/main.469c4438.chunk.js",
+    "main.js.map": "/rvitians_groups/static/js/main.469c4438.chunk.js.map",
+    "runtime-main.js": "/rvitians_groups/static/js/runtime-main.a0038061.js",
+    "runtime-main.js.map": "/rvitians_groups/static/js/runtime-main.a0038061.js.map",
+    "static/js/2.79058803.chunk.js": "/rvitians_groups/static/js/2.79058803.chunk.js",
+    "static/js/2.79058803.chunk.js.map": "/rvitians_groups/static/js/2.79058803.chunk.js.map",
+    "static/js/3.d4f71ee5.chunk.js": "/rvitians_groups/static/js/3.d4f71ee5.chunk.js",
+    "static/js/3.d4f71ee5.chunk.js.map": "/rvitians_groups/static/js/3.d4f71ee5.chunk.js.map",
+    "index.html": "/rvitians_groups/index.html",
+    "static/css/main.4321f32b.chunk.css.map": "/rvitians_groups/static/css/main.4321f32b.chunk.css.map",
+    "static/js/2.79058803.chunk.js.LICENSE.txt": "/rvitians_groups/static/js/2.79058803.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0038061.js",
+    "static/js/2.79058803.chunk.js",
+    "static/css/main.4321f32b.chunk.css",
+    "static/js/main.469c4438.chunk.js"
+  ]
+}
